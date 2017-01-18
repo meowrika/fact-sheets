@@ -1,0 +1,95 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: folder1.indd
+
+PACKAGE DATE: 9/25/16 7:28 PM
+Creation Date: 9/25/16
+Modification Date: 9/25/16
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+GridCalculator.InDesignPlugin
+
+
+Non Opaque Objects :None
+
+FONTS
+3 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Bembo; Type: Type 1, Status: OK
+- Name: GillSans-Bold; Type: TrueType, Status: OK
+- Name: GillSans-Light; Type: TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 2 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 144 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 2945 U; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 3 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 2 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Xerox WorkCentre 7845, (Xerox WorkCentre 7845 (9C:93:4E:32:C7:14))
+Printing To: Printer
+Number of Copies: 5
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. folder1.indd; type: Adobe InDesign publication; size: 2760K
+2. folder1.idml; type: InDesign Markup Document; size: 80K
+3. folder1.pdf; type: Adobe Acrobat Document; size: 618K
+4. Bembo; type: Font file; size: 0K
+5. Bembo.; type: Font file; size: 0K
+6. GillSans.ttc; type: Font file; size: 575K
